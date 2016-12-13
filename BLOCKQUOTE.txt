@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+<TITLE>右縮</TITLE>
+</HEAD>
+<BODY>
+是一種無線傳輸的技術&nbsp;&nbsp;&nbsp;。是LPWAN (Low Power Wide Area Network) 的協定，
+<BLOCKQUOTE>
+主要是針對長距離，<BR>
+</BLOCKQUOTE>
+且傳輸資料量小&nbsp;&nbsp;的應用，也因為他省電的特性，<P>
+所以常應用在工業及M2M (machine to machine) 的情境中，<BR>
+是目前針對長距離物聯網應用的一個主要技術。<P>
+</BODY>
+</HTML>
